@@ -1,10 +1,3 @@
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.csproj.AssemblyReference.cache
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.GeneratedMSBuildEditorConfig.editorconfig
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.AssemblyInfoInputs.cache
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.AssemblyInfo.cs
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.csproj.CoreCompileInputs.cache
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.MvcApplicationPartsAssemblyInfo.cs
-D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.MvcApplicationPartsAssemblyInfo.cache
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\appsettings.Development.json
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\appsettings.json
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Project_XemPhim.exe
@@ -14,7 +7,9 @@ D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Project_XemPhim.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Project_XemPhim.pdb
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Azure.Core.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Azure.Identity.dll
+D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\BCrypt.Net-Next.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Humanizer.dll
+D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -60,6 +55,14 @@ D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\runtimes\win\lib\net6.0\Syst
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Project_XemPhim\Project_XemPhim\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.csproj.AssemblyReference.cache
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.AssemblyInfoInputs.cache
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.AssemblyInfo.cs
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.csproj.CoreCompileInputs.cache
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.MvcApplicationPartsAssemblyInfo.cs
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.MvcApplicationPartsAssemblyInfo.cache
+D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\Project_XemPhim.sourcelink.json
 D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\staticwebassets.build.json
 D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\staticwebassets.development.json
 D:\Project_XemPhim\Project_XemPhim\obj\Debug\net7.0\staticwebassets\msbuild.Project_XemPhim.Microsoft.AspNetCore.StaticWebAssets.props

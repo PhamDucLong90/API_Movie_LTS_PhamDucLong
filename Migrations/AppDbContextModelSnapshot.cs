@@ -467,7 +467,7 @@ namespace Project_XemPhim.Migrations
                     b.Property<DateTime>("ExpiredTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Token")
+                    b.Property<string>("Refresh_Token")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -713,7 +713,7 @@ namespace Project_XemPhim.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("IsAdmin")
+                    b.Property<bool>("IsActive")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
@@ -723,6 +723,9 @@ namespace Project_XemPhim.Migrations
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Point")
+                        .HasColumnType("int");
 
                     b.Property<int>("RankCustomerId")
                         .HasColumnType("int");

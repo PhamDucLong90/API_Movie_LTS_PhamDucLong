@@ -10,7 +10,7 @@ namespace Project_XemPhim.entity
   UserId integer*/
         [Key]
         public int Id_RefreshToken { get; set; }
-        public string Token { get; set; }
+        public string Refresh_Token { get; set; }
         public DateTime ExpiredTime { get; set; }
         public int UserId { get; set; }
 

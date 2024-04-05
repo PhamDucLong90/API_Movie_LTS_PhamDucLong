@@ -18,13 +18,14 @@ namespace Project_XemPhim.entity
   RoleId integer*/
         [Key]
         public int Id_User { get; set; }
+        public int Point {  get; set; }
         public string Username { get; set; }
         public string Email { get; set; }
         public string Name { get; set; }
         public string Password { get; set; }
         public int RankCustomerId { get; set; }
         public int UserStatusId { get; set; }
-        public bool IsAdmin { get; set; }
+        public bool IsActive { get; set; }
         public int RoleId { get; set; }
         public IEnumerable<RefreshToken> refreshTokens { get; set; }
         public IEnumerable<ConfirmEmail> confirmEmails { get; set; }

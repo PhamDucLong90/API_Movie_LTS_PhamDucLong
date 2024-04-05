@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_XemPhim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5caeac6db73f25eb5842cc36b5cab75332d42df9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_XemPhim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_XemPhim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
